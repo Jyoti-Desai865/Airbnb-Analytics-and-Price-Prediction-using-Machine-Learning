@@ -20,11 +20,11 @@ Power BI Dashboard Development
 End-to-End Analytics Pipeline
 
 Technologies Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Scikit-learn,
 Power BI
 
 Key Findings:
