@@ -2,6 +2,9 @@
 
 This project focuses on analyzing Airbnb listing data using data analytics, machine learning, and visualization techniques. The project includes data cleaning, exploratory data analysis (EDA), predictive modeling, Power BI dashboard creation, and implementation of an end-to-end analytics pipeline.
 
+Dataset is not included in this repository due to large file size. 
+The Airbnb dataset can be downloaded from Kaggle.
+
 Problem Statement:
 The rapid growth of Airbnb listings generates a large amount of data related to pricing, room types, customer ratings, and booking availability. Analyzing this data manually is difficult and time-consuming. The objective of this project is to analyze Airbnb listing data, identify business insights, and build a machine learning model to predict listing prices.
 
